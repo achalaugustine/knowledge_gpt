@@ -14,7 +14,7 @@ Accurate answers and instant citations for your documents.
 1. Clone the repository📂
 
 ```bash
-git clone https://github.com/mmz-001/knowledge_gpt
+git clone https://github.com/achalaugustine/knowledge_gpt.git
 cd knowledge_gpt
 ```
 
